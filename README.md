@@ -13,4 +13,4 @@ I'm a Java & .NET backend developer passionate about building scalable systems.
 
 ## 📫 How to reach me
 - 📧 ahmedhusseindev2@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/ahmed-hussein-3192591ba/])
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-hussein-3192591ba/)
