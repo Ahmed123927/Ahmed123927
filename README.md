@@ -8,8 +8,7 @@ I'm a Java backend developer passionate about building scalable systems.
 - Git | GitHub | Docker  
 - HTML | CSS | JavaScript  
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhussein&layout=compact&theme=tokyonight)  
+
 
 ## 📫 How to reach me
 - 📧 ahmedhusseindev2@gmail.com  
