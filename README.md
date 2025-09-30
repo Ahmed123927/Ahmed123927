@@ -1,15 +1,15 @@
 # Ahmed Hussein 👋
 
-I'm a Java & .NET backend developer passionate about building scalable systems.
+I'm a Java backend developer passionate about building scalable systems.  
 
 ## 🛠 Tech Stack
-- Java | Spring Boot | .NET Core | RESTful APIs  
+- Java | Spring Boot | Spring Data JPA | Spring Security | RESTful APIs  
 - PostgreSQL | SQL Server | MySQL  
 - Git | GitHub | Docker  
-- HTML | CSS | JavaScript
+- HTML | CSS | JavaScript  
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhussein&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhussein&layout=compact&theme=tokyonight)  
 
 ## 📫 How to reach me
 - 📧 ahmedhusseindev2@gmail.com  
